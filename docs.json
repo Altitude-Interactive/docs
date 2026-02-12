@@ -16,9 +16,13 @@
           {
             "group": "CorpSim",
             "pages": [
-              "corpsim/introduction",
+              "corpsim/introduction"
+            ]
+          },
+          {
+            "group": "CorpSim Pages",
+            "pages": [
               "corpsim/pages/overview",
-              "corpsim/pages/world-status",
               "corpsim/pages/market",
               "corpsim/pages/production",
               "corpsim/pages/research",
@@ -26,7 +30,8 @@
               "corpsim/pages/logistics",
               "corpsim/pages/contracts",
               "corpsim/pages/finance",
-              "corpsim/pages/analytics"
+              "corpsim/pages/analytics",
+              "corpsim/pages/world-status"
             ]
           },
           {
