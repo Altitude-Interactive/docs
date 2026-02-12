@@ -14,6 +14,22 @@
         "tab": "Guides",
         "groups": [
           {
+            "group": "CorpSim",
+            "pages": [
+              "corpsim/introduction",
+              "corpsim/pages/overview",
+              "corpsim/pages/world-status",
+              "corpsim/pages/market",
+              "corpsim/pages/production",
+              "corpsim/pages/research",
+              "corpsim/pages/inventory",
+              "corpsim/pages/logistics",
+              "corpsim/pages/contracts",
+              "corpsim/pages/finance",
+              "corpsim/pages/analytics"
+            ]
+          },
+          {
             "group": "Getting started",
             "pages": [
               "index",
